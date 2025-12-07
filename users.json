@@ -1,0 +1,15 @@
+[ {
+  "id" : 1,
+  "nombre" : "Administrador",
+  "email" : "admin@test.com",
+  "password" : "admin123",
+  "rol" : "ADMIN",
+  "activo" : true
+}, {
+  "id" : 2,
+  "nombre" : "Usuario Prueba",
+  "email" : "user@test.com",
+  "password" : "user123",
+  "rol" : "USUARIO",
+  "activo" : true
+} ]
